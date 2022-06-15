@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+![海边吹吹风](https://metrics.lecoq.io/Astrafhtra?template=classic&base.indepth=false&base.hireable=false&config.timezone=Asia%2FTaipei)
+![海边吹吹风](https://metrics.lecoq.io/Astrafhtra?template=classic&base.indepth=false&base.hireable=false&config.timezone=Asia%2FTaipei)
 <!--
 **Astrafhtra/Astrafhtra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
